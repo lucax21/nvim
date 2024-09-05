@@ -2,6 +2,7 @@ set nu!
 set mouse=a
 set relativenumber
 set autoindent
+autocmd VimEnter * colorscheme Black
 
 call plug#begin()
 
